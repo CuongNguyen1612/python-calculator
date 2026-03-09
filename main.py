@@ -1,6 +1,4 @@
-a = int(input("Nhập số thứ nhất: "))
-b = int(input("Nhập số thứ hai: "))
+a = int(input("Nhap so a: "))
+b = int(input("Nhap so b: "))
 
-tong = a + b
-
-print("Kết quả =", tong)
+print("Tong =", a + b)
